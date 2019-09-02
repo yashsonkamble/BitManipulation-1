@@ -36,8 +36,24 @@ Your algorithm should have a linear runtime complexity. Could you implement it w
 Example 1:
 
 Input: [2,2,1]
+
 Output: 1
+
 Example 2:
 
 Input: [4,1,2,1,2]
+
 Output: 4
+
+## Problem3
+Repeated DNA Sequences (https://leetcode.com/problems/repeated-dna-sequences/)
+
+All DNA is composed of a series of nucleotides abbreviated as A, C, G, and T, for example: "ACGAATTCCG". When studying DNA, it is sometimes useful to identify repeated sequences within the DNA.
+
+Write a function to find all the 10-letter-long sequences (substrings) that occur more than once in a DNA molecule.
+
+Example:
+
+Input: s = "AAAAACCCCCAAAAACCCCCCAAAAAGGGTTT"
+
+Output: ["AAAAACCCCC", "CCCCCAAAAA"]
